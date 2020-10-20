@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import Title from "../components/Title";
 //import { ProductConsumer } from "../context";
 export default class Default extends Component {
   render() {
